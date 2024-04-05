@@ -1,1 +1,1 @@
-# planner-app
+# Counter-app
